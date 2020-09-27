@@ -1,1 +1,1 @@
-# phpnotifier
+A technique to call API directly from DB without using other tools like RabbitMQ, AMQP, MQTT
